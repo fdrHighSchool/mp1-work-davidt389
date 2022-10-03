@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name: Tian 
+### First Name: David
+### GitHub Username: davidt389
 
 ---
 #### General Workflow: 
